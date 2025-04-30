@@ -15,4 +15,6 @@ always exploring innovative ways to integrate these tools into modern developmen
 
 erland@github:~$ man erland
 No manual entry for erland — he writes his own rules.
+
+erland@github:~$ _
 ```
