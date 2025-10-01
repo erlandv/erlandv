@@ -4,15 +4,14 @@ erland@github:~$ pwd
 
 erland@github:~$ whoami
 Erland, a passionate Developer based in Jakarta, Indonesia.
-With over a decade of experience in web development and open-source technologies,
-I thrive on building solutions that empower businesses to succeed in the digital space.
-Since 2013, I’ve specialized in crafting robust web apps and web sites
-using PHP, JavaScript, MySQL, Apache, Nginx, and other core web technologies.
-Beyond development, my journey has expanded into the dynamic realm of cloud computing.
-I now focus on Infrastructure as a Service (IaaS), leveraging cloud-based virtual machines
-and load balancers to create scalable, efficient systems.
-I’m also a devoted advocate of GNU/Linux and the open-source community,
-always exploring innovative ways to integrate these tools into modern development workflows.
+I help teams turn ideas into production-ready, scalable web products
+that customers genuinely value. Over the past decade, I have led projects end-to-end
+spanning websites and web apps, balancing usability performance, and ROI
+from discovery through launch and continuous iteration.
+On the infrastructure side, I design and manage resilient IaaS platforms using
+virtual machines, load balancers, and CI/CD pipelines. I implement autoscaling and
+observability on GNU/Linux. The result is a stable, secure, and cost-aware
+platform that keeps your product growing.
 
 erland@github:~$ man erland
 No manual entry for erland — he writes his own rules.
