@@ -44,21 +44,6 @@ DESCRIPTION
 PHILOSOPHY
     Boring, reliable systems are a feature.
 
-erland@github:~$ history | tail -5
-deploy production
-fix production
-document why production broke
-fix production again
-write tests
-
-erland@github:~$ ls -la ~/contact
-email    -> hello@erland.me
-website  -> https://erland.me
-
-erland@github:~$ cat ~/status
-Building useful things.
-Slowly. Carefully. Consistently.
-
 erland@github:~$ exit
 logout
 Connection closed by foreign host.
