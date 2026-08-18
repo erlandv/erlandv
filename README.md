@@ -1,4 +1,4 @@
-```bash
+```text
 erland@github:~$ neofetch
       ___
      /\  \        erland@github
